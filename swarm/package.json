@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hyperswarm": "^4.3.5"
+  },
+  "type": "module"
+}
