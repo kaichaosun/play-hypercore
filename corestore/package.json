@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "corestore": "^6.4.0",
+    "hyperswarm": "^4.3.5"
+  },
+  "type": "module"
+}
