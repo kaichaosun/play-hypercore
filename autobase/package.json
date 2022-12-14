@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "autobase": "^1.0.0-alpha.8",
+    "chalk": "^5.2.0",
+    "corestore": "^6.4.0",
+    "random-access-memory": "^6.1.0"
+  },
+  "type": "module"
+}
